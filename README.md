@@ -1,7 +1,7 @@
 CSIT 314 - Team Zealous
 
-Database uses: phpMyAdmin
-Code: HTML, PHP
+- Database uses: phpMyAdmin
+- Code: HTML, PHP
 
 Login:
 - User Admin: ua@example.com | password: password
