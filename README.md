@@ -1,11 +1,15 @@
 CSIT 314 - Team Zealous
 
 Database uses: phpMyAdmin
+
 Code: HTML, PHP
 
 User Admin login: ua@example.com | password: password
+
 PIN login: pin@example.com | password: password
+
 CSR Rep login: csrr@example.com | password: password
+
 Platform Manager login: pm@example.com | password: password
 
 For windows user,
