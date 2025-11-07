@@ -33,10 +33,6 @@ if (isset($_GET['id']) && is_numeric($_GET['id'])) {
             break;
         }
     }
-
-    if ($selectedRequest) {
-        $controller->incrementViewCount($selectedRequest['requestID']);
-    }
 }
 ?>
 
@@ -110,3 +106,4 @@ if (isset($_GET['id']) && is_numeric($_GET['id'])) {
 
 </body>
 </html>
+
