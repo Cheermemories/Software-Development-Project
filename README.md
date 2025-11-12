@@ -2,7 +2,8 @@ CSIT 314 - Team Zealous
 
 - Database uses: phpMyAdmin
 - Code: HTML, PHP
-
+- Samples are generated in the db_connect.php file
+  
 Login:
 - User Admin: ua@example.com | password: password
 - PIN: pin@example.com | password: password
